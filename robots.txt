@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaisonrak.github.io/ep3/sitemap.xml
